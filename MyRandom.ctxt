@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MyRandom
+comment0.text=\r\n\ In\ this\ project\ you\ will\ learn\ about\ writing\ classes\ in\ Java.\r\n\ \r\n\ You\ will\:\r\n\ 1.\ Write\ a\ traditional\ class\ with\ a\ class\ (static)\ method\r\n\ \r\n\ 2.\ Add\ instance\ variables,\ instance\ methods,\ and\ a\ constructor\ so\ that\ it\ can\ be\ instaniated.\r\n\ \ \r\n\ @author\ (your\ name)\ \r\n\ @version\ Unit\ 7\ -\ Writing\ Object\ Classes\r\n
+comment1.params=
+comment1.target=java.lang.String\ yourName()
+comment1.text=\r\n\ Simply\ return\ your\ name\ as\ a\ String,\ last\ name\ then\ first\ name,\ separated\ by\ a\ comma\r\n\r\n\ @return\ your\ name\ as\ a\ String\r\n
+comment2.params=from\ to
+comment2.target=int\ randomInRange(int,\ int)
+comment2.text=\r\n\ Given\ two\ int\ parameter\ values,\ from\ and\ to,\ you\ will\ return\ a\ random\ int\ that\ falls\r\n\ in\ the\ range\ of\ from\ and\ to\ (inclusive).\r\n\ \r\n\ For\ example\:\r\n\ \ randomInRange(1,10)\ would\ return\ a\ number\ between\ 1\ and\ 10\ inclusive.\r\n\ \ \ \ Valid\ return\ values\ would\ be\ the\ numbers\:\ 1...10\r\n\ \ \r\n\ \ randomInRange(10,1)\ would\ also\ return\ a\ number\ between\ 1\ and\ 10\ inclusive.\r\n\ \ \r\n\ \ randomInRange(-5,5)\ would\ return\ a\ number\ between\ -5\ and\ 5\ inclusive.\r\n\ \ \r\n\ \ NOTE\:\ This\ method\ does\ not\ work\ as\ intended\!\r\n\ \ \r\n\ @param\ \ \ from\ \ \ \ one\ bound\ of\ the\ random\ int\ to\ be\ generated\r\n\ @return\ \ to\ \ \ \ \ \ the\ second\ bound\ of\ the\ random\ int\ ot\ be\ genrated\r\n
+comment3.params=first\ second
+comment3.target=MyRandom(int,\ int)
+comment4.params=
+comment4.target=int\ nextRandom()
+comment5.params=setFrom
+comment5.target=void\ setFrom(int)
+comment6.params=setTo
+comment6.target=void\ setTo(int)
+comment7.params=
+comment7.target=int\ getFrom()
+comment8.params=
+comment8.target=int\ getTo()
+comment9.params=val
+comment9.target=java.lang.String\ getIntVal(double)
+numComments=10
